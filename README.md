@@ -6,3 +6,6 @@
 3. https://github.com/alvarotrigo/multiscroll.js#multiscrolljs
 4. http://www.builtbyevolve.com/work/plugins/nerve-slider
 5. http://srobbin.com/jquery-plugins/backstretch/
+
+## Really cool template:
+* http://materialdesignthemes.com/themes/materialx/
