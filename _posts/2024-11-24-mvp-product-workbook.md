@@ -4,9 +4,10 @@ title: "Get the no-code product workbook"
 author: "Harman Singh"
 categories: resources
 image: no-code-product-workbook.png
+github-cdn.src: https://github.com/user-attachments/assets/04c87227-4a66-45d6-ba47-2bc513e1316a 
 ---
 
-<iframe style="position: relative; height: 100%; width: 100%;" src="https://github.com/user-attachments/assets/04c87227-4a66-45d6-ba47-2bc513e1316a" frameborder="0" allowfullscreen></iframe>
+{% include github-cdn.html id=page.github-cdn.src %}
 
 ## Enter email and get the No-code Product Workbook
 
