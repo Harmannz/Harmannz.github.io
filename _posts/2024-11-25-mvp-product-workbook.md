@@ -3,7 +3,7 @@ layout: post
 title: "No-Code Product Workbook"
 author: "Harman Singh"
 categories: resources
-image: no-code-workbook.png
+image: no-code-product-workbook.png
 ---
 
 # Get the No-Code Product Workbook
