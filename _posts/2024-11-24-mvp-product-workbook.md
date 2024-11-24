@@ -6,7 +6,7 @@ categories: resources
 image: no-code-product-workbook.png
 ---
 
-{% include github-cdn.html src="https://github.com/user-attachments/assets/04c87227-4a66-45d6-ba47-2bc513e1316a" %}
+{% include github-cdn.html src="https://github.com/user-attachments/assets/b616eac1-5348-4b39-aa9e-c3f368d9d381" %}
 
 ## Enter email and get the No-code Product Workbook
 
