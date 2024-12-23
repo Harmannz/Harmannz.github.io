@@ -18,6 +18,10 @@ image: airbnb-no-code.png
 
 ## Resources & References
 
+### Notion template
+
+If you want a Notion template of this page, [get it from here](https://salty-cafe-29d.notion.site/Building-Airbnb-with-No-Code-16546deb5b17808eab0ae53f11b1932c?pvs=74).
+
 ### Documentation Links
 
 - [Webflow Documentation](https://developers.webflow.com/)
@@ -30,13 +34,13 @@ image: airbnb-no-code.png
 
 ## Table of Contents
 
-1. [Project Overview & Architecture](https://www.notion.so/Building-Airbnb-with-No-Code-16546deb5b17808eab0ae53f11b1932c?pvs=21)
-2. [Technical Setup & Configuration](https://www.notion.so/Building-Airbnb-with-No-Code-16546deb5b17808eab0ae53f11b1932c?pvs=21)
-3. [Core Features Implementation](https://www.notion.so/Building-Airbnb-with-No-Code-16546deb5b17808eab0ae53f11b1932c?pvs=21)
-4. [Integration & Automation](https://www.notion.so/Building-Airbnb-with-No-Code-16546deb5b17808eab0ae53f11b1932c?pvs=21)
-5. [Mobile App Development](https://www.notion.so/Building-Airbnb-with-No-Code-16546deb5b17808eab0ae53f11b1932c?pvs=21)
-6. [Testing & Launch](https://www.notion.so/Building-Airbnb-with-No-Code-16546deb5b17808eab0ae53f11b1932c?pvs=21)
-7. [Optimization & Scaling](https://www.notion.so/Building-Airbnb-with-No-Code-16546deb5b17808eab0ae53f11b1932c?pvs=21)
+1. [Project Overview & Architecture](#1-project-overview--architecture)
+2. [Technical Setup & Configuration](#2-technical-setup--configuration)
+3. [Core Features Implementation](#3-core-features-implementation)
+4. [Integration & Automation](#4-host-dashboard-implementation)
+5. [Mobile App Development](#5-mobile-app-development-glide)
+6. [Testing & Launch](#6-testing--launch-checklist)
+7. [Optimization & Scaling](#7-optimization--scaling)
 
 ---
 
