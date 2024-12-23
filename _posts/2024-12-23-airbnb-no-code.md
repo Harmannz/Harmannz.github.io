@@ -8,8 +8,6 @@ image: airbnb-no-code.png
 
 # Building Airbnb with No-Code
 
-# A Minimum Viable Everything Technical Guide
-
 *Follow this technical guide to building a property rental marketplace without code*
 
 <iframe src="https://embeds.beehiiv.com/135044e2-931e-4e2c-8a71-32b7ffde1021" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
