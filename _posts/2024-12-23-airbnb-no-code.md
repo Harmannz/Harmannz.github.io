@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Airbnb with No-Code"
-author: "Harman Singh"
+author: "Harman"
 categories: resources
 image: airbnb-no-code.png
 ---

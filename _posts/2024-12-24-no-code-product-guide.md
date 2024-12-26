@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Job Listing Platform with No-Code"
-author: "Harman Singh"
+author: "Harman"
 categories: resources
 image: job-platform-no-code.png
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get the no-code product workbook"
-author: "Harman Singh"
+author: "Harman"
 categories: resources
 image: no-code-product-workbook.png
 ---
