@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Building Job Listing Platform with No-Code"
+title: "50 Product MVP Ideas using Bubble.io"
 author: "Harman"
 categories: resources
-image: job-platform-no-code.png
+image: 50-bubble-ideas.png
 ---
 
 # 50 MVP Product Ideas for Rapid Prototyping with Bubble.io
