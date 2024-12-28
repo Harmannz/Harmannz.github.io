@@ -6,7 +6,6 @@ categories: resources
 image: 50-bubble-ideas.png
 ---
 
-# 50 MVP Product Ideas for Rapid Prototyping with Bubble.io
 _A Practical Guide for Aspiring Entrepreneurs_
 
 Welcome to this comprehensive guide where we showcase 50 MVP product ideas that you can prototype using [Bubble.io](https://bubble.io/). 
@@ -18,6 +17,8 @@ Each week, we spotlight a company and prototype their product with practical adv
 <iframe src="https://embeds.beehiiv.com/135044e2-931e-4e2c-8a71-32b7ffde1021" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 
 ---
+
+# 50 MVP Product Ideas for Rapid Prototyping with Bubble.io
 
 ## Quick Links
 
